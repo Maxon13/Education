@@ -15,6 +15,7 @@ public class Example_1 {
             if(min > number[i])
                 min = number[i];
             avg += number[i]/number.length;
+
         }
 
         System.out.println(Arrays.toString(number));
